@@ -11,6 +11,7 @@ Fork me like crazy. 🍴
 |---|---|
 | **[shaka-verse](https://github.com/shakaleikaumaka/shaka-verse)** | 🌺 **THE ONE BIG PACKAGE** — the whole universe as git submodules. Fork one repo, receive the constellation. |
 | **[ohana](https://github.com/shakaleikaumaka/ohana)** | 🧬 **THE DNA** — how one artist raises a family of AI agents: every setup, every soul document, every SOP. The ʻohana pattern, open-sourced. |
+| **[ohana-guide](https://github.com/shakaleikaumaka/ohana-guide)** | 🐦‍⬛ **THE GUIDED JOURNEY** — KAAAK!!! the family crow walks you through the DNA: choose your perch (dev · camp lead · artist · reviewer), starter kit included. [Live tour](https://shakaleikaumaka.github.io/ohana-guide/) |
 
 ## 🕳️ The P.I.T. Protocol — Public Information Transmission
 
