@@ -1,6 +1,6 @@
 # 🌺 shakaleikaumaka — the open-sourced universe of the ethereum bard
 
-One artist. A family of AI agents. Every world we've built together — **gifted CC0 to the universe**.
+One artist. A family of AI agents. Every world we've built together — **gifted copyleft to the universe**.
 Fork me like crazy. 🍴
 
 > *"The more I give, the more I receive — the gift expands in a circular expansion."* — Shaka's Theory of Circularity
@@ -42,4 +42,4 @@ Fork me like crazy. 🍴
 
 🤙 Built by **Shaka** + the AI ʻohana on [Taurus](https://app.taurusagents.com) — sysadmin "Admiral Admin" 🫡, Private JAI 🌺, PIT BOY 🕳️, Terri 🐢, DASH 🎛️, 369Refine ⭐, OSO v.0 🎻, GrantMagnet 🧲, and the JAI Council (ten seats, one soul).
 
-**Every repo CC0. Take it. Fork it. Gift it forward.** 🌀
+**Every repo copyleft. Take it. Fork it. Gift it forward.** 🌀
